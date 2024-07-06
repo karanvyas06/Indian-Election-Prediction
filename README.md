@@ -1,4 +1,4 @@
-![image](https://github.com/karanvyas06/Indian-Election-Prediction/assets/62548463/e8af1b12-1a39-423b-b5af-be11a9667c22)This is my Capstone project "Indian Election Prediction" based on Python libraries like (Numpy, Pandas, Seaborn, Plotly Express), statistics and Machine Learning Algorithms.
+This is my Capstone project "Indian Election Prediction" based on Python libraries like (Numpy, Pandas, Seaborn, Plotly Express), statistics and Machine Learning Algorithms.
 
 Problem Definition
 -----------------------------------------------------------------
